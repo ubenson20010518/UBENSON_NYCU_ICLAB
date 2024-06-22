@@ -1,0 +1,1 @@
+Lab09 要寫Lab08的pattern，同樣使用 SystemVerilog。SystemVerilog 的另一個強大之處在於驗證，包括assertion和覆蓋率coverage的概念。題目要求我們使用assertion來偵測錯誤情況，並確保我們pattern的coverage達到一定的標準。
