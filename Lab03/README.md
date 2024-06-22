@@ -1,1 +1,1 @@
-Lab03 是有關 AXI protocol 和 SPI protocol 的資料傳輸模式，其中 DRAM 使用 AXI protocol ，而 SD 卡使用 SPI protocol 。題目要求我們完成 pseudo_DRAM 和 bridge 的設計，SD 卡部分則由助教提供。因此，這次 Lab 主要是讓我們熟悉 AXI protocol ，這非常重要，因為後續的 Lab 會經常用到。此外，從這個 Lab 開始，我們就要開始自己寫pattern了，美好時光即將結束。
+Lab03 是有關 AXI protocol 和 SPI protocol 的資料傳輸模式，其中 DRAM 使用 AXI protocol ，而 SD 卡使用 SPI protocol 。題目要求我們完成 pseudo_DRAM 和 bridge 的設計，SD 卡部分則由助教提供。因此，這次 Lab 主要是讓我們熟悉 AXI protocol ，這非常重要，因為後續的 Lab 會經常用到。此外，從這個 Lab 開始，我們就要開始自己寫pattern了，美好時光已經結束。
